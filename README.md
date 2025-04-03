@@ -13,7 +13,7 @@
 **Mentor: Neela Santhosh Kumar**
 
  
-**Task: CLOUD STORAGE SETUP**
+**Task: CLOUD MONITORING AND ALERTS**
 
 ## Overview of the Project
 
